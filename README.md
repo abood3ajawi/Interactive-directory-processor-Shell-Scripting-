@@ -1,8 +1,8 @@
 # Interactive-directory-processor-Shell-Scripting-
 interactive directory processor that takes 3 arguments:
- <h4>- Directory</h4>
- <h4>- "ana" or "del" or "arr"</h4>
- <h4>- regex or biggest file size or file type</h4>
+ <div>- Directory</div>
+ <div>- "ana" or "del" or "arr"</div>
+ <div>- regex or biggest file size or file type</div>
  
 The first agrument is the name of the directory that processing will happen recursively. 
 The second and third arguments have 3 possibilites:
